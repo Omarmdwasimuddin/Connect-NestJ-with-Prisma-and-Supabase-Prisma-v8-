@@ -29,19 +29,6 @@ import { ConfigModule } from '@nestjs/config';
 export class AppModule {}
 ```
 
->#### Direct connection string theke Session pooler select koro.
-<img width="752" height="621" alt="image" src="https://github.com/user-attachments/assets/731491a3-a490-42c6-83f1-a8c912af7244" />
-
->#### Connection string er url copy koro.
-<img width="726" height="351" alt="image" src="https://github.com/user-attachments/assets/ebd1fee8-338e-4dab-ad13-4fde7699eb0d" />
-
-
-#### `.env.example`
-```bash
-DATABASE_URL=""
-```
----
-
 
 #### Prisma v8 install
 ```bash
@@ -60,14 +47,17 @@ npx prisma@latest orm init --yes --target postgres --authoring psl
 ```
 ---
 
+>#### Direct connection string theke Session pooler select koro.
+<img width="752" height="621" alt="image" src="https://github.com/user-attachments/assets/731491a3-a490-42c6-83f1-a8c912af7244" />
 
->#### example.env theke DATABASE_URL copy kore .env te paste koro.
+>#### Connection string er url copy kore .env te paste koro.
+<img width="726" height="351" alt="image" src="https://github.com/user-attachments/assets/ebd1fee8-338e-4dab-ad13-4fde7699eb0d" />
+
 #### `.env`
 ```bash
 DATABASE_URL=""
 ```
 ---
-
 
 #### `contract.prisma`
 ```bash
