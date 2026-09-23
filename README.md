@@ -1,1 +1,1 @@
-## Connect NestJ with Prisma and Supabase (Prisma v8)
+## Connect NestJS with Prisma and Supabase (Prisma v8)
