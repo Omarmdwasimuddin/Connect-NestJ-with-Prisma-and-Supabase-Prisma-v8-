@@ -36,7 +36,7 @@ export class AppModule {}
 <img width="726" height="351" alt="image" src="https://github.com/user-attachments/assets/ebd1fee8-338e-4dab-ad13-4fde7699eb0d" />
 
 
-#### `example.env`
+#### `.env.example`
 ```bash
 DATABASE_URL=""
 ```
